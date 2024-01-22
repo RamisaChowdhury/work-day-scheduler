@@ -4,7 +4,6 @@ body {
   line-height: 1;
 }
 
-/* not used */
 textarea {
   background: transparent;
   border: none;
@@ -23,54 +22,43 @@ header {
   padding: 60px;
 }
 
-/* not used */
 .description {
   white-space: pre-wrap;
 }
 
-/* not used */
 .time-block {
   text-align: center;
   border-radius: 15px;
 }
 
-/* not used */
 .row {
   white-space: pre-wrap;
   height: 100px;
   border-top: 1px solid white;
 }
 
-/* not used */
 .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
 }
 
-/* not used */
 .past {
   background-color: #d3d3d3;
   color: white;
 }
 
-/* not used */
 .present {
   background-color: #ff6961;
   color: white;
 }
 
-/* not used */
 .future {
   background-color: #77dd77;
   color: white;
 }
 
-/* not used */
 .saveBtn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
@@ -78,7 +66,6 @@ header {
   color: white;
 }
 
-/* not used */
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
